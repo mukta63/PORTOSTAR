@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+
+/* container */
+@theme {
+  --spacing-mContainer: 1210px; 
+  /* container */
+
+
+  /* FontFamili Start */
+     --font-pop: "Open Sans", "sans-serif";
+
+  /* FontFamili End */
+  /* Color Start */
+ --drop-shadow-service: 37px 37px 80px rgba(0, 0, 0, 0.7); 
+
+  /* Color End */
+
+}
